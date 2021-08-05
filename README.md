@@ -10,8 +10,8 @@
 #### [CHAPTER 3 리스트와 튜플](https://github.com/joielee09/high-performance-python/blob/main/chapter_3%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%ED%8A%9C%ED%94%8C.ipynb)
 #### CHAPTER 4 사전과 셋
 #### CHAPTER 5 이터레이터와 제너레이터
-#### [CHAPTER 6 행렬과 벡터 계산](./chapter_6 행렬과 벡터계산.html)
-#### [CHAPTER 7 C 언어로 컴파일하기](./chapter 7 C 언어로 컴파일하기.html)
+#### [CHAPTER 6 행렬과 벡터 계산](https://bakerspercent.s3.ap-northeast-2.amazonaws.com/etc/chapter_6.html)
+#### [CHAPTER 7 C 언어로 컴파일하기](https://github.com/joielee09/high-performance-python/blob/main/chapter_7%20C%20%EC%96%B8%EC%96%B4%EB%A1%9C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0.ipynb)
 #### CHAPTER 8 비동기 I/O
 #### CHAPTER 9 multiprocessing 모듈
 #### CHAPTER 10 클러스터와 작업 큐
