@@ -21,5 +21,5 @@ CHAPTER 5 이터레이터와 제너레이터 <br/>
 CHAPTER 9 multiprocessing 모듈 <br/>
 [CHAPTER 10 클러스터와 작업 큐](https://github.com/joielee09/high-performance-python/blob/main/chapter_10%20%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0%EC%99%80%20%EC%9E%91%EC%97%85%20%ED%81%90.ipynb) <br/>
 CHAPTER 11 RAMM 덜 사용하기 <br/>
-[Probability Data Structure](https://wild-soil-91a.notion.site/Probability-Data-Structure-7e2046910f75450cb2bebd9d9422eafb) <br/>
+ㄴ 추가 스터디: [Probability Data Structure](https://wild-soil-91a.notion.site/Probability-Data-Structure-7e2046910f75450cb2bebd9d9422eafb) <br/>
 CHAPTER 12 현장에서 얻은 교훈 <br/>
