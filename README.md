@@ -15,7 +15,7 @@ CHAPTER 1 고성능 파이썬 이해하기 <br/>
 [CHAPTER 3 리스트와 튜플](https://github.com/joielee09/high-performance-python/blob/main/chapter_3%20%EB%A6%AC%EC%8A%A4%ED%8A%B8%EC%99%80%20%ED%8A%9C%ED%94%8C.ipynb) <br/>
 CHAPTER 4 사전과 셋 <br/>
 CHAPTER 5 이터레이터와 제너레이터 <br/>
-[CHAPTER 6 행렬과 벡터 계산](https://bakerspercent.s3.ap-northeast-2.amazonaws.com/etc/chapter_6.html) <br/>
+[CHAPTER 6 행렬과 벡터 계산](https://github.com/joielee09/high-performance-python/blob/main/chapter_6.%20%ED%96%89%EB%A0%AC%20%EB%B2%A1%ED%84%B0%20%EA%B3%84%EC%82%B0%20.ipynb) <br/>
 [CHAPTER 7 C 언어로 컴파일하기](https://github.com/joielee09/high-performance-python/blob/main/chapter_7%20C%20%EC%96%B8%EC%96%B4%EB%A1%9C%20%EC%BB%B4%ED%8C%8C%EC%9D%BC%ED%95%98%EA%B8%B0.ipynb) <br/>
 [CHAPTER 8 비동기 I/O](https://github.com/joielee09/high-performance-python/blob/main/chapter_8.%20%EB%B9%84%EB%8F%99%EA%B8%B0%20IO%20(2).zip) <br/>
 CHAPTER 9 multiprocessing 모듈 <br/>
